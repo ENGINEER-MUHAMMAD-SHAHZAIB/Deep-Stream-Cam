@@ -1,7 +1,7 @@
-<h1 align="center">Deep-Live-Cam</h1>
+<h1 align="center">Deep-Stream-Cam</h1>
 
 <p align="center">
-  Real-time face swap and video deepfake with a single click and only a single image.
+  Deep-Stream-Cam enables seamless real-time face swapping and video deepfakes, all with a single image and a single click. Unlock the power of AI for instant, lifelike transformations in video content, making advanced visual effects effortlessly accessible.
 </p>
 
 <p align="center">
