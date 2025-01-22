@@ -175,5 +175,3 @@ Thanks to the following contributors:
 - Special thanks to all contributors for their dedication and support.
 
 ---
-
-This version focuses on delivering key information efficiently while maintaining a clear and structured flow. It improves readability and accessibility for users who need guidance at different stages of the project.
